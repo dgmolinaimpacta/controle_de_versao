@@ -1,2 +1,6 @@
-# controle_de_versao
-Exercicio da aula
+# Ferramentas de controle de versão:
+
+* Mercurial
+* GitHub
+* Subversion
+* CVS
